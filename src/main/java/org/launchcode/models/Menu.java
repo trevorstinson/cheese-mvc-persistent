@@ -28,8 +28,6 @@ public class Menu {
 
     public Menu() { }
 
-    Menu ()
-
     public int getId() {
         return id;
     }
