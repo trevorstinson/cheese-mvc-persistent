@@ -49,6 +49,6 @@ public class Menu {
     }
 
     public void addItem(Cheese item) {
-        this.cheeses.add(item);
+        cheeses.add(item);
     }
 }
